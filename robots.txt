@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fokras.github.io/qcW/sitemap.qcW.gz

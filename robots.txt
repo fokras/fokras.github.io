@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fokras.csgad.com/KZu/sitemap.xml.gz
